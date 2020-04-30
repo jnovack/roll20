@@ -1,0 +1,400 @@
+!import-table --SpellRarity --hide
+!import-table-item --SpellRarity --Spell Level 0 --256 --
+!import-table-item --SpellRarity --Spell Level 1 --224 --
+!import-table-item --SpellRarity --Spell Level 2 --160 --
+!import-table-item --SpellRarity --Spell Level 3 --128 --
+!import-table-item --SpellRarity --Spell Level 4 --96 --
+!import-table-item --SpellRarity --Spell Level 5 --64 --
+!import-table-item --SpellRarity --Spell Level 6 --32 --
+!import-table-item --SpellRarity --Spell Level 7 --16 --
+!import-table-item --SpellRarity --Spell Level 8 --4 --
+!import-table-item --SpellRarity --Spell Level 9 --1 --
+
+
+!import-table --Spell0 --hide
+!import-table-item --Spell0 --Acid Splash --32 --
+!import-table-item --Spell0 --Blade Ward --64 --
+!import-table-item --Spell0 --Chill Touch --48 --
+!import-table-item --Spell0 --Dancing Lights --48 --
+!import-table-item --Spell0 --Druidcraft --8 --
+!import-table-item --Spell0 --Eldritch Blast --16 --
+!import-table-item --Spell0 --Fire Bolt --32 --
+!import-table-item --Spell0 --Friends --64 --
+!import-table-item --Spell0 --Guidance --32 --
+!import-table-item --Spell0 --Light --64 --
+!import-table-item --Spell0 --Mage Hand --64 --
+!import-table-item --Spell0 --Mending --72 --
+!import-table-item --Spell0 --Message --48 --
+!import-table-item --Spell0 --Minor Illusion --64 --
+!import-table-item --Spell0 --Poison Spray --64 --
+!import-table-item --Spell0 --Prestidigitation --64 --
+!import-table-item --Spell0 --Produce Flame --8 --
+!import-table-item --Spell0 --Ray of Frost --32 --
+!import-table-item --Spell0 --Resistance --28 --
+!import-table-item --Spell0 --Sacred Flame --16 --
+!import-table-item --Spell0 --Shillelagh --8 --
+!import-table-item --Spell0 --Shocking Grasp --32 --
+!import-table-item --Spell0 --Spare the Dying --16 --
+!import-table-item --Spell0 --Thaumaturgy --16 --
+!import-table-item --Spell0 --Thorn Whip --8 --
+!import-table-item --Spell0 --True Strike --64 --
+!import-table-item --Spell0 --Vicious Mockery --8 --
+
+!import-table --Spell1 --hide
+!import-table-item --Spell1 --Alarm --156 --
+!import-table-item --Spell1 --Animal Friendship --192 --
+!import-table-item --Spell1 --Armor of Agathys --72 --
+!import-table-item --Spell1 --Arms of Hadar --72 --
+!import-table-item --Spell1 --Bane --140 --
+!import-table-item --Spell1 --Bless --152 --
+!import-table-item --Spell1 --Burning Hands --148 --
+!import-table-item --Spell1 --Charm Person --340 --
+!import-table-item --Spell1 --Chromatic Orb --148 --
+!import-table-item --Spell1 --Color Spray --148 --
+!import-table-item --Spell1 --Command --152 --
+!import-table-item --Spell1 --Compelled Duel --76 --
+!import-table-item --Spell1 --Comprehend Languages --284 --
+!import-table-item --Spell1 --Create or Destroy Water --128 --
+!import-table-item --Spell1 --Cure Wounds --344 --
+!import-table-item --Spell1 --Detect Evil and Good --152 --
+!import-table-item --Spell1 --Detect Magic --488 --
+!import-table-item --Spell1 --Detect Poison and Disease --276 --
+!import-table-item --Spell1 --Disguise Self --212 --
+!import-table-item --Spell1 --Dissonant Whispers --64 --
+!import-table-item --Spell1 --Divine Favor --76 --
+!import-table-item --Spell1 --Ensnaring Strike --76 --
+!import-table-item --Spell1 --Entangle --52 --
+!import-table-item --Spell1 --Expeditious Retreat --220 --
+!import-table-item --Spell1 --Faerie Fire --120 --
+!import-table-item --Spell1 --False Life --148 --
+!import-table-item --Spell1 --Feather Fall --212 --
+!import-table-item --Spell1 --Find Familiar --84 --
+!import-table-item --Spell1 --Fog Cloud --276 --
+!import-table-item --Spell1 --Goodberry --128 --
+!import-table-item --Spell1 --Grease --84 --
+!import-table-item --Spell1 --Guiding Bolt --76 --
+!import-table-item --Spell1 --Hail of Thorns --76 --
+!import-table-item --Spell1 --Healing Word --196 --
+!import-table-item --Spell1 --Hellish Rebuke --72 --
+!import-table-item --Spell1 --Heroism --140 --
+!import-table-item --Spell1 --Hex --72 --
+!import-table-item --Spell1 --Hunter's Mark --76 --
+!import-table-item --Spell1 --Identify --148 --
+!import-table-item --Spell1 --Illusory Script --220 --
+!import-table-item --Spell1 --Inflict Wounds --76 --
+!import-table-item --Spell1 --Jump --276 --
+!import-table-item --Spell1 --Longstrider --276 --
+!import-table-item --Spell1 --Mage Armor --148 --
+!import-table-item --Spell1 --Magic Missile --148 --
+!import-table-item --Spell1 --Protection from Evil and Good --308 --
+!import-table-item --Spell1 --Purify Food and Drink --204 --
+!import-table-item --Spell1 --Ray of Sickness --148 --
+!import-table-item --Spell1 --Sanctuary --76 --
+!import-table-item --Spell1 --Searing Smite --76 --
+!import-table-item --Spell1 --Shield --148 --
+!import-table-item --Spell1 --Shield of Faith --152 --
+!import-table-item --Spell1 --Silent Image --212 --
+!import-table-item --Spell1 --Sleep --212 --
+!import-table-item --Spell1 --Speak with Animals --192 --
+!import-table-item --Spell1 --Tasha's Hideous Laughter --148 --
+!import-table-item --Spell1 --Tenser's Floating Disk --84 --
+!import-table-item --Spell1 --Thunderous Smite --76 --
+!import-table-item --Spell1 --Thunderwave --264 --
+!import-table-item --Spell1 --Unseen Servant --220 --
+!import-table-item --Spell1 --Witch Bolt --220 --
+!import-table-item --Spell1 --Wrathful Smite --76 --
+
+!import-table --Spell2 --hide
+!import-table-item --Spell2 --Aid --144 --
+!import-table-item --Spell2 --Alter Self --140 --
+!import-table-item --Spell2 --Animal Messenger --184 --
+!import-table-item --Spell2 --Arcane Lock --80 --
+!import-table-item --Spell2 --Augury --72 --
+!import-table-item --Spell2 --Barkskin --124 --
+!import-table-item --Spell2 --Beast Sense --124 --
+!import-table-item --Spell2 --Blindness/Deafness --276 --
+!import-table-item --Spell2 --Blur --140 --
+!import-table-item --Spell2 --Branding Smite --72 --
+!import-table-item --Spell2 --Calm Emotions --136 --
+!import-table-item --Spell2 --Cloud of Daggers --272 --
+!import-table-item --Spell2 --Continual Flame --152 --
+!import-table-item --Spell2 --Cordon of Arrows --72 --
+!import-table-item --Spell2 --Crown of Madness --272 --
+!import-table-item --Spell2 --Darkness --212 --
+!import-table-item --Spell2 --Darkvision --264 --
+!import-table-item --Spell2 --Detect Thoughts --204 --
+!import-table-item --Spell2 --Enhance Ability --248 --
+!import-table-item --Spell2 --Enlarge/Reduce --140 --
+!import-table-item --Spell2 --Enthrall --132 --
+!import-table-item --Spell2 --Find Steed --72 --
+!import-table-item --Spell2 --Find Traps --196 --
+!import-table-item --Spell2 --Flame Blade --52 --
+!import-table-item --Spell2 --Flaming Sphere --132 --
+!import-table-item --Spell2 --Gentle Repose --152 --
+!import-table-item --Spell2 --Gust of Wind --192 --
+!import-table-item --Spell2 --Heat Metal --112 --
+!import-table-item --Spell2 --Hold Person --396 --
+!import-table-item --Spell2 --Invisibility --272 --
+!import-table-item --Spell2 --Knock --204 --
+!import-table-item --Spell2 --Lesser Restoration --328 --
+!import-table-item --Spell2 --Levitate --140 --
+!import-table-item --Spell2 --Locate Animals or Plants --184 --
+!import-table-item --Spell2 --Locate Object --408 --
+!import-table-item --Spell2 --Magic Mouth --144 --
+!import-table-item --Spell2 --Magic Weapon --152 --
+!import-table-item --Spell2 --Melf's Acid Arrow --80 --
+!import-table-item --Spell2 --Mirror Image --212 --
+!import-table-item --Spell2 --Misty Step --212 --
+!import-table-item --Spell2 --Moonbeam --52 --
+!import-table-item --Spell2 --Nystul's Magic Aura --80 --
+!import-table-item --Spell2 --Pass without Trace --124 --
+!import-table-item --Spell2 --Phantasmal Force --204 --
+!import-table-item --Spell2 --Prayer of Healing --72 --
+!import-table-item --Spell2 --Protection from Poison --264 --
+!import-table-item --Spell2 --Ray of Enfeeblement --148 --
+!import-table-item --Spell2 --Rope Trick --80 --
+!import-table-item --Spell2 --Scorching Ray --140 --
+!import-table-item --Spell2 --See Invisibility --204 --
+!import-table-item --Spell2 --Shatter --272 --
+!import-table-item --Spell2 --Silence --208 --
+!import-table-item --Spell2 --Spider Climb --212 --
+!import-table-item --Spell2 --Spike Growth --124 --
+!import-table-item --Spell2 --Spiritual Weapon --72 --
+!import-table-item --Spell2 --Suggestion --272 --
+!import-table-item --Spell2 --Warding Bond --72 --
+!import-table-item --Spell2 --Web --140 --
+!import-table-item --Spell2 --Zone of Truth --208 --
+
+!import-table --Spell3 --hide
+!import-table-item --Spell3 --Animate Dead --168 --
+!import-table-item --Spell3 --Aura of Vitality --80 --
+!import-table-item --Spell3 --Beacon of Hope --80 --
+!import-table-item --Spell3 --Bestow Curse --240 --
+!import-table-item --Spell3 --Blinding Smite --80 --
+!import-table-item --Spell3 --Blink --156 --
+!import-table-item --Spell3 --Call Lightning --56 --
+!import-table-item --Spell3 --Clairvoyance --308 --
+!import-table-item --Spell3 --Conjure Animals --136 --
+!import-table-item --Spell3 --Conjure Barrage --80 --
+!import-table-item --Spell3 --Counterspell --236 --
+!import-table-item --Spell3 --Create Food and Water --160 --
+!import-table-item --Spell3 --Crusader's Mantle --80 --
+!import-table-item --Spell3 --Daylight --364 --
+!import-table-item --Spell3 --Dispel Magic --520 --
+!import-table-item --Spell3 --Elemental Weapon --80 --
+!import-table-item --Spell3 --Fear --304 --
+!import-table-item --Spell3 --Feign Death --296 --
+!import-table-item --Spell3 --Fireball --156 --
+!import-table-item --Spell3 --Fly --236 --
+!import-table-item --Spell3 --Gaseous Form --236 --
+!import-table-item --Spell3 --Glyph of Warding --240 --
+!import-table-item --Spell3 --Haste --156 --
+!import-table-item --Spell3 --Hunger of Hadar --80 --
+!import-table-item --Spell3 --Hypnotic Pattern --304 --
+!import-table-item --Spell3 --Leomund's Tiny Hut --160 --
+!import-table-item --Spell3 --Lightning Arrow --80 --
+!import-table-item --Spell3 --Lightning Bolt --156 --
+!import-table-item --Spell3 --Magic Circle --328 --
+!import-table-item --Spell3 --Major Image --304 --
+!import-table-item --Spell3 --Mass Healing Word --80 --
+!import-table-item --Spell3 --Meld into Stone --136 --
+!import-table-item --Spell3 --Nondetection --240 --
+!import-table-item --Spell3 --Phantom Steed --88 --
+!import-table-item --Spell3 --Plant Growth --208 --
+!import-table-item --Spell3 --Protection from Energy --376 --
+!import-table-item --Spell3 --Remove Curse --328 --
+!import-table-item --Spell3 --Revivify --160 --
+!import-table-item --Spell3 --Sending --240 --
+!import-table-item --Spell3 --Sleet Storm --212 --
+!import-table-item --Spell3 --Slow --156 --
+!import-table-item --Spell3 --Speak with Dead --152 --
+!import-table-item --Spell3 --Speak with Plants --208 --
+!import-table-item --Spell3 --Spirit Guardians --80 --
+!import-table-item --Spell3 --Stinking Cloud --228 --
+!import-table-item --Spell3 --Tongues --384 --
+!import-table-item --Spell3 --Vampiric Touch --168 --
+!import-table-item --Spell3 --Water Breathing --292 --
+!import-table-item --Spell3 --Water Walk --284 --
+!import-table-item --Spell3 --Wind Wall --136 --
+
+
+!import-table --Spell4 --hide
+!import-table-item --Spell4 --Arcane Eye --148 --
+!import-table-item --Spell4 --Aura of Life --132 --
+!import-table-item --Spell4 --Aura of Purity --132 --
+!import-table-item --Spell4 --Banishment --656 --
+!import-table-item --Spell4 --Blight --484 --
+!import-table-item --Spell4 --Compulsion --116 --
+!import-table-item --Spell4 --Confusion --472 --
+!import-table-item --Spell4 --Conjure Minor Elementals --240 --
+!import-table-item --Spell4 --Conjure Woodland Beings --228 --
+!import-table-item --Spell4 --Control Water --376 --
+!import-table-item --Spell4 --Death Ward --268 --
+!import-table-item --Spell4 --Dimension Door --508 --
+!import-table-item --Spell4 --Divination --136 --
+!import-table-item --Spell4 --Dominate Beast --208 --
+!import-table-item --Spell4 --Evard's Black Tentacles --148 --
+!import-table-item --Spell4 --Fabricate --148 --
+!import-table-item --Spell4 --Fire Shield --148 --
+!import-table-item --Spell4 --Freedom of Movement --480 --
+!import-table-item --Spell4 --Giant Insect --96 --
+!import-table-item --Spell4 --Grasping Vine --228 --
+!import-table-item --Spell4 --Greater Invisibility --376 --
+!import-table-item --Spell4 --Guardian of Faith --136 --
+!import-table-item --Spell4 --Hallucinatory Terrain --488 --
+!import-table-item --Spell4 --Ice Storm --356 --
+!import-table-item --Spell4 --Leomund's Secret Chest --148 --
+!import-table-item --Spell4 --Locate Creature --756 --
+!import-table-item --Spell4 --Mordenkainen's Faithful Hound --148 --
+!import-table-item --Spell4 --Mordenkainen's Private Sanctum --148 --
+!import-table-item --Spell4 --Otiluke's Resilient Sphere --148 --
+!import-table-item --Spell4 --Phantasmal Killer --148 --
+!import-table-item --Spell4 --Polymorph --472 --
+!import-table-item --Spell4 --Staggering Smite --132 --
+!import-table-item --Spell4 --Stone Shape --376 --
+!import-table-item --Spell4 --Stoneskin --488 --
+!import-table-item --Spell4 --Wall of Fire --356 --
+
+
+!import-table --Spell5 --hide
+!import-table-item --Spell5 --Animate Objects --332 --
+!import-table-item --Spell5 --Antilife Shell --84 --
+!import-table-item --Spell5 --Awaken --184 --
+!import-table-item --Spell5 --Banishing Smite --116 --
+!import-table-item --Spell5 --Bigby's Hand --128 --
+!import-table-item --Spell5 --Circle of Power --116 --
+!import-table-item --Spell5 --Cloudkill --228 --
+!import-table-item --Spell5 --Commune --120 --
+!import-table-item --Spell5 --Commune with Nature --200 --
+!import-table-item --Spell5 --Cone of Cold --228 --
+!import-table-item --Spell5 --Conjure Elemental --212 --
+!import-table-item --Spell5 --Conjure Volley --116 --
+!import-table-item --Spell5 --Contact Other Plane --244 --
+!import-table-item --Spell5 --Contagion --200 --
+!import-table-item --Spell5 --Creation --228 --
+!import-table-item --Spell5 --Destructive Smite --116 --
+!import-table-item --Spell5 --Dispel Evil and Good --236 --
+!import-table-item --Spell5 --Dominate Person --332 --
+!import-table-item --Spell5 --Dream --344 --
+!import-table-item --Spell5 --Flame Strike --120 --
+!import-table-item --Spell5 --Geas --548 --
+!import-table-item --Spell5 --Greater Restoration --304 --
+!import-table-item --Spell5 --Hallow --120 --
+!import-table-item --Spell5 --Hold Monster --444 --
+!import-table-item --Spell5 --Insect Plague --300 --
+!import-table-item --Spell5 --Legend Lore --348 --
+!import-table-item --Spell5 --Mass Cure Wounds --304 --
+!import-table-item --Spell5 --Mislead --232 --
+!import-table-item --Spell5 --Modify Memory --232 --
+!import-table-item --Spell5 --Passwall --128 --
+!import-table-item --Spell5 --Planar Binding --432 --
+!import-table-item --Spell5 --Raise Dead --336 --
+!import-table-item --Spell5 --Rary's Telepathic Bond --128 --
+!import-table-item --Spell5 --Reincarnate --84 --
+!import-table-item --Spell5 --Scrying --548 --
+!import-table-item --Spell5 --Seeming --332 --
+!import-table-item --Spell5 --Swift Quiver --116 --
+!import-table-item --Spell5 --Telekinesis --228 --
+!import-table-item --Spell5 --Teleportation Circle --332 --
+!import-table-item --Spell5 --Tree Stride --200 --
+!import-table-item --Spell5 --Wall of Force --128 --
+!import-table-item --Spell5 --Wall of Stone --312 --
+
+
+!import-table --Spell6 --hide
+!import-table-item --Spell6 --Arcane Gate --480 --
+!import-table-item --Spell6 --Blade Barrier --168 --
+!import-table-item --Spell6 --Chain Lightning --320 --
+!import-table-item --Spell6 --Circle of Death --480 --
+!import-table-item --Spell6 --Conjure Fey --276 --
+!import-table-item --Spell6 --Contingency --180 --
+!import-table-item --Spell6 --Create Undead --508 --
+!import-table-item --Spell6 --Disintegrate --320 --
+!import-table-item --Spell6 --Drawmij's Instant Summons --180 --
+!import-table-item --Spell6 --Eyebite --624 --
+!import-table-item --Spell6 --Find the Path --424 --
+!import-table-item --Spell6 --Flesh to Stone --340 --
+!import-table-item --Spell6 --Forbiddance --168 --
+!import-table-item --Spell6 --Globe of Invulnerability --320 --
+!import-table-item --Spell6 --Guards and Wards --324 --
+!import-table-item --Spell6 --Harm --168 --
+!import-table-item --Spell6 --Heal --284 --
+!import-table-item --Spell6 --Heroes' Feast --284 --
+!import-table-item --Spell6 --Magic Jar --180 --
+!import-table-item --Spell6 --Mass Suggestion --624 --
+!import-table-item --Spell6 --Move Earth --436 --
+!import-table-item --Spell6 --Otiluke's Freezing Sphere --180 --
+!import-table-item --Spell6 --Otto's Irresistible Dance --324 --
+!import-table-item --Spell6 --Planar Ally --168 --
+!import-table-item --Spell6 --Programmed Illusion --324 --
+!import-table-item --Spell6 --Sunbeam --436 --
+!import-table-item --Spell6 --Transport via Plants --116 --
+!import-table-item --Spell6 --True Seeing --788 --
+!import-table-item --Spell6 --Wall of Ice --180 --
+!import-table-item --Spell6 --Wall of Thorns --116 --
+!import-table-item --Spell6 --Wind Walk --116 --
+!import-table-item --Spell6 --Word of Recall --168 --
+
+
+!import-table --Spell7 --hide
+!import-table-item --Spell7 --Conjure Celestial --212 --
+!import-table-item --Spell7 --Delayed Blast Fireball --412 --
+!import-table-item --Spell7 --Divine Word --212 --
+!import-table-item --Spell7 --Etherealness --1012 --
+!import-table-item --Spell7 --Finger of Death --616 --
+!import-table-item --Spell7 --Fire Storm --540 --
+!import-table-item --Spell7 --Forcecage --620 --
+!import-table-item --Spell7 --Mirage Arcane --564 --
+!import-table-item --Spell7 --Mordenkainen's Magnificent Mansion --416 --
+!import-table-item --Spell7 --Mordenkainen's Sword --416 --
+!import-table-item --Spell7 --Plane Shift --976 --
+!import-table-item --Spell7 --Prismatic Spray --412 --
+!import-table-item --Spell7 --Project Image --416 --
+!import-table-item --Spell7 --Regenerate --544 --
+!import-table-item --Spell7 --Resurrection --396 --
+!import-table-item --Spell7 --Reverse Gravity --560 --
+!import-table-item --Spell7 --Sequester --232 --
+!import-table-item --Spell7 --Simulacrum --232 --
+!import-table-item --Spell7 --Symbol --628 --
+!import-table-item --Spell7 --Teleport --596 --
+
+
+!import-table --Spell8 --hide
+!import-table-item --Spell8 --Animal Shapes --188 --
+!import-table-item --Spell8 --Antimagic Field --556 --
+!import-table-item --Spell8 --Antipathy/Sympathy --480 --
+!import-table-item --Spell8 --Clone --292 --
+!import-table-item --Spell8 --Control Weather --744 --
+!import-table-item --Spell8 --Demiplane --548 --
+!import-table-item --Spell8 --Dominate Monster --1004 --
+!import-table-item --Spell8 --Earthquake --676 --
+!import-table-item --Spell8 --Feeblemind --964 --
+!import-table-item --Spell8 --Glibness --488 --
+!import-table-item --Spell8 --Holy Aura --268 --
+!import-table-item --Spell8 --Incendiary Cloud --516 --
+!import-table-item --Spell8 --Maze --292 --
+!import-table-item --Spell8 --Mind Blank --520 --
+!import-table-item --Spell8 --Power Word Stun --1004 --
+!import-table-item --Spell8 --Sunburst --704 --
+!import-table-item --Spell8 --Telepathy --292 --
+!import-table-item --Spell8 --Trap the Soul --292 --
+!import-table-item --Spell8 --Tsunami --188 --
+
+
+!import-table --Spell9 --hide
+!import-table-item --Spell9 --Astral Projection --944 --
+!import-table-item --Spell9 --Foresight --1120 --
+!import-table-item --Spell9 --Gate --904 --
+!import-table-item --Spell9 --Imprisonment --636 --
+!import-table-item --Spell9 --Mass Heal --308 --
+!import-table-item --Spell9 --Meteor Swarm --596 --
+!import-table-item --Spell9 --Power Word Heal --268 --
+!import-table-item --Spell9 --Power Word Kill --1164 --
+!import-table-item --Spell9 --Prismatic Wall --336 --
+!import-table-item --Spell9 --Shapechange --556 --
+!import-table-item --Spell9 --Storm of Vengeance --216 --
+!import-table-item --Spell9 --Time Stop --596 --
+!import-table-item --Spell9 --True Polymorph --904 --
+!import-table-item --Spell9 --True Resurrection --524 --
+!import-table-item --Spell9 --Weird --336 --
+!import-table-item --Spell9 --Wish --596 --
