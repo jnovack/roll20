@@ -1,0 +1,36 @@
+!import-table --RandomPotion --show
+!import-table-item --RandomPotion --Animal Friendship (200gp) --36 --
+!import-table-item --RandomPotion --Clairvoyance (960gp) --18 --
+!import-table-item --RandomPotion --Climbing (180gp) --60 --
+!import-table-item --RandomPotion --Enlarge (270gp) --36 --
+!import-table-item --RandomPotion --Breath, Acid (150gp) --36 --
+!import-table-item --RandomPotion --Breath, Cold (150gp) --36 --
+!import-table-item --RandomPotion --Breath, Fire (150gp) --36 --
+!import-table-item --RandomPotion --Breath, Lightning (150gp) --36 --
+!import-table-item --RandomPotion --Breath, Poison (150gp) --36 --
+!import-table-item --RandomPotion --Flying (500gp)--12 --
+!import-table-item --RandomPotion --Gaseous Form (300gp) --18 --
+!import-table-item --RandomPotion --Healing [2d4+2] (50gp)--60 --
+!import-table-item --RandomPotion --Greater Healing [4d4+4] (150gp)--36 --
+!import-table-item --RandomPotion --Superior Healing [8d4+8] (450gp) --18 --
+!import-table-item --RandomPotion --Supreme Healing [10d4+20] (1350gp) --12 --
+!import-table-item --RandomPotion --Heroism (180gp) --18 --
+!import-table-item --RandomPotion --Invisibility (180gp) --12 --
+!import-table-item --RandomPotion --Invulnerability (3840gp) --18 --
+!import-table-item --RandomPotion --Longevity (9001gp) --12 --
+!import-table-item --RandomPotion --Mind Reading (180gp) --18 --
+!import-table-item --RandomPotion --Poison (100gp) --36 --
+!import-table-item --RandomPotion --Reduce (270gp) --18 --
+!import-table-item --RandomPotion --Resistance, Acid (300gp)--36 --
+!import-table-item --RandomPotion --Resistance, Cold (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Fire (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Force (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Lightning (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Necrotic (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Poison (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Psychic (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Radiant (300gp) --36 --
+!import-table-item --RandomPotion --Resistance, Thunder (300gp) --36 --
+!import-table-item --RandomPotion --Speed (400gp) --12 --
+!import-table-item --RandomPotion --Vitality (960gp) --12 --
+!import-table-item --RandomPotion --Water Breathing (180gp) --36 --
