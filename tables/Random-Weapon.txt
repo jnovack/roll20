@@ -1,0 +1,38 @@
+
+!import-table --RandomWeapon --hide
+!import-table-item	--RandomWeapon	--Club --2 --
+!import-table-item	--RandomWeapon	--Dagger --6 --
+!import-table-item	--RandomWeapon	--Greatclub --2 --
+!import-table-item	--RandomWeapon	--Handaxe --1 --
+!import-table-item	--RandomWeapon	--Javalin --2 --
+!import-table-item	--RandomWeapon	--Light Hammer --2 --
+!import-table-item	--RandomWeapon	--Mace --4 --
+!import-table-item	--RandomWeapon	--Quarterstaff --4 --
+!import-table-item	--RandomWeapon	--Sickle --1 --
+!import-table-item	--RandomWeapon	--Spear --1 --
+!import-table-item	--RandomWeapon	--Battleaxe --4 --
+!import-table-item	--RandomWeapon	--Flail --4 --
+!import-table-item	--RandomWeapon	--Glaive --1 --
+!import-table-item	--RandomWeapon	--Greataxe --4 --
+!import-table-item	--RandomWeapon	--Greatsword --4 --
+!import-table-item	--RandomWeapon	--Halberd --1 --
+!import-table-item	--RandomWeapon	--Lance --1 --
+!import-table-item	--RandomWeapon	--Longsword --4 --
+!import-table-item	--RandomWeapon	--Maul --3 --
+!import-table-item	--RandomWeapon	--Morningstar --4 --
+!import-table-item	--RandomWeapon	--Pike --1 --
+!import-table-item	--RandomWeapon	--Rapier --2 --
+!import-table-item	--RandomWeapon	--Scimitar --1 --
+!import-table-item	--RandomWeapon	--Shortsword --10 --
+!import-table-item	--RandomWeapon	--Trident --1 --
+!import-table-item	--RandomWeapon	--War Pick --1 --
+!import-table-item	--RandomWeapon	--Warhammer --3 --
+!import-table-item	--RandomWeapon	--Whip --1 --
+!import-table-item	--RandomWeapon	--Light Crossbow --6 --
+!import-table-item	--RandomWeapon	--Dart --1 --
+!import-table-item	--RandomWeapon	--Shortbow --8 --
+!import-table-item	--RandomWeapon	--Sling --1 --
+!import-table-item	--RandomWeapon	--Blowgun --1 --
+!import-table-item	--RandomWeapon	--Hand Crossbow --2 --
+!import-table-item	--RandomWeapon	--Heavy Crossbow --2 --
+!import-table-item	--RandomWeapon	--Longbow --4 --
