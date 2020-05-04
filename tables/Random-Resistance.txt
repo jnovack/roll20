@@ -1,0 +1,11 @@
+!import-table --RandomResistance --hide
+!import-table-item	--RandomResistance	--Acid --12 --
+!import-table-item	--RandomResistance	--Cold --15 --
+!import-table-item	--RandomResistance	--Fire --15 --
+!import-table-item	--RandomResistance	--Force --10 --
+!import-table-item	--RandomResistance	--Lightning --12 --
+!import-table-item	--RandomResistance	--Necrotic --8 --
+!import-table-item	--RandomResistance	--Poison --6 --
+!import-table-item	--RandomResistance	--Psychic --8 --
+!import-table-item	--RandomResistance	--Radiant --8 --
+!import-table-item	--RandomResistance	--Thunder --6 --
