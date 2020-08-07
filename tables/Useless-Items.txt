@@ -1,0 +1,124 @@
+!import-table --UselessItem --show
+!import-table-item --UselessItem --A sprung mousetrap, no cheese and no mouse. --1 --
+!import-table-item --UselessItem --A crumpled shopping list for eggs, milk, laxative, and celery. --1 --
+!import-table-item --UselessItem --A bag of hard butterscotch candies, melted together by humidity and time. --1 --
+!import-table-item --UselessItem --A crusty used handkerchief. No monogram. --1 --
+!import-table-item --UselessItem --A few scraps of fine fabric, too small to make anything with. --1 --
+!import-table-item --UselessItem --An empty bottle. --1 --
+!import-table-item --UselessItem --A pair of eyeglasses, badly scratched. --1 --
+!import-table-item --UselessItem --An old, but clean, pair of socks --1 --
+!import-table-item --UselessItem --A calendar with pictures of landscapes, several years old. --1 --
+!import-table-item --UselessItem --Newspaper clippings about horse races. --1 --
+!import-table-item --UselessItem --An old, faded receipt from a local tavern. --1 --
+!import-table-item --UselessItem --Several crayon drawings, obviously made by a child, mostly of horses with wings and rainbows. --1 --
+!import-table-item --UselessItem --A tube of glue. Dry. --1 --
+!import-table-item --UselessItem --Sixteen ink pens. Only two of them have any ink left. --1 --
+!import-table-item --UselessItem --A ticket stub to a play that was popular years and years ago but fell quickly out of fashion after the playwright was accused of plagiarism. --1 --
+!import-table-item --UselessItem --A cookie tin. Upon opening it, you discover that it’s full of sewing supplies. --1 --
+!import-table-item --UselessItem --A gold piece, but it’s actually chocolate. --1 --
+!import-table-item --UselessItem --A small jewelry box, empty. The label has been removed. --1 --
+!import-table-item --UselessItem --One sock. --1 --
+!import-table-item --UselessItem --A completed crossword puzzle. --1 --
+!import-table-item --UselessItem --An empty match box. --1 --
+!import-table-item --UselessItem --A broken picture frame (without a picture) --1 --
+!import-table-item --UselessItem --A burned-down candle. --1 --
+!import-table-item --UselessItem --A rusted flint and steel. --1 --
+!import-table-item --UselessItem --A rusty butter knife that smells terrible. --1 --
+!import-table-item --UselessItem --A woolly jumper that is more holes than wool. --1 --
+!import-table-item --UselessItem --Several feet of yarn, so badly knotted it might take you hours to untangle the mess. --1 --
+!import-table-item --UselessItem --A glass eye. --1 --
+!import-table-item --UselessItem --A jar of common seashells. --1 --
+!import-table-item --UselessItem --A commemorative plate of the royal wedding. --1 --
+!import-table-item --UselessItem --A heavily annotated recipe book of foreign cuisine. --1 --
+!import-table-item --UselessItem --A rock with eyes and a mouth painted on. --1 --
+!import-table-item --UselessItem --A belt buckle with the prong missing. --1 --
+!import-table-item --UselessItem --A shoelace with several tight knots. --1 --
+!import-table-item --UselessItem --Pistachio nut shells. About a handful. --1 --
+!import-table-item --UselessItem --Flint and tinder in a small wooden box. --1 --
+!import-table-item --UselessItem --A cheap wax seal stamp, depicting a generic shield shape. --1 --
+!import-table-item --UselessItem --A small wooden carving of a dog. --1 --
+!import-table-item --UselessItem --A small wooden box of stale tobacco leaf. --1 --
+!import-table-item --UselessItem --A rusty steel and glass syringe. --1 --
+!import-table-item --UselessItem --A portrait of a plain, unremarkable woman. It looks old enough that the lady is likely long dead. --1 --
+!import-table-item --UselessItem --A postcard from a far away land. The back is blank. --1 --
+!import-table-item --UselessItem --A handkerchief with a knot in it, the owner probably had something important they didn’t want to forget. --1 --
+!import-table-item --UselessItem --A small container labelled ‘Dr. Brown’s World Renown Elbow Grease’. It is nearly empty and smells foul. --1 --
+!import-table-item --UselessItem --A to-do list written in Infernal. --1 --
+!import-table-item --UselessItem --A chunk of gold ore, but on closer inspection it is actually iron pyrite, also known as fool’s gold. --1 --
+!import-table-item --UselessItem --An old, heavily stained tobacco smoking pipe. --1 --
+!import-table-item --UselessItem --A rag used for polishing metal. --1 --
+!import-table-item --UselessItem --A pile of old letters, business documents, receipts, and news leaflets stacked under a small model castle made carved from wood. --1 --
+!import-table-item --UselessItem --Loose quills. --1 --
+!import-table-item --UselessItem --Sealing wax, along are some strands of ribbon. --1 --
+!import-table-item --UselessItem --A hairbrush with a few stray blonde hairs. --1 --
+!import-table-item --UselessItem --A makeup compact. --1 --
+!import-table-item --UselessItem --A small leather coin pouch (empty). --1 --
+!import-table-item --UselessItem --A single dusty leather glove. --1 --
+!import-table-item --UselessItem --A dull letter opener, the handle has a griffon at the end with an illegible inscription, worn smooth with time. --1 --
+!import-table-item --UselessItem --A dirty, scratched magnifying glass. --1 --
+!import-table-item --UselessItem --A broken pocket watch. --1 --
+!import-table-item --UselessItem --Monocle with a broken chain. --1 --
+!import-table-item --UselessItem --A small sketchbook with various poorly executed drawings of everyday things, places, and people. The artist made small improvements as time went on, but even the very last page isn’t really that good. --1 --
+!import-table-item --UselessItem --Two empty burlap sacks that have an earthy smell of root vegetables and mildew --1 --
+!import-table-item --UselessItem --A tankard with the handle broken off; the bottom also looks to be dented, as if dashed against something heavy. --1 --
+!import-table-item --UselessItem --Cracked potion vial, empty. The label is peeling off, but you remember it being a very common brand when you were a kid. --1 --
+!import-table-item --UselessItem --Shattered eyeglasses on a chain that looks at first to be gold but is actually copper that’s been glamoured. --1 --
+!import-table-item --UselessItem --A specimen jar of hardened gelatinous cube gel, so dry that it’s become powdery and useless. --1 --
+!import-table-item --UselessItem --A miniature painting of a rose, ruined by a dark red stain. --1 --
+!import-table-item --UselessItem --A helmet’s face guard. The eyes and mouth holes look a little small for a normal soldier. --1 --
+!import-table-item --UselessItem --An mostly-empty container of vegetable oil. --1 --
+!import-table-item --UselessItem --A warped whetstone. --1 --
+!import-table-item --UselessItem --An envelope stuffed with cheap woodcut prints of women in various states of undress. --1 --
+!import-table-item --UselessItem --An envelope stuffed with cheap woodcut prints of men in various states of undress. --1 --
+!import-table-item --UselessItem --A nail file. --1 --
+!import-table-item --UselessItem --A dictionary. --1 --
+!import-table-item --UselessItem --A pile of feathers and bone that at one time must have been a small bird. --1 --
+!import-table-item --UselessItem --A pair of large scissors, rusted shut. --1 --
+!import-table-item --UselessItem --A pair of tweezers. --1 --
+!import-table-item --UselessItem --A couple of board game pieces, apparently from different board games. --1 --
+!import-table-item --UselessItem --An empty ink bottle. --1 --
+!import-table-item --UselessItem --A bundle of dried flowers. --1 --
+!import-table-item --UselessItem --A wooden mallet. --1 --
+!import-table-item --UselessItem --An empty bottle of cough syrup with residue at the bottom. --1 --
+!import-table-item --UselessItem --Stale bread, hard as wood. --1 --
+!import-table-item --UselessItem --A dead, mummified mouse. --1 --
+!import-table-item --UselessItem --A rusty corkscrew with a cork still on the end. --1 --
+!import-table-item --UselessItem --Half an inch of dust in the bottom of the drawer/chest, rising up when you opened it, making you sneeze. --1 --
+!import-table-item --UselessItem --Pieces of a shattered shield. --1 --
+!import-table-item --UselessItem --A dead mouse next to a bowl containing the rotting remains of food. --1 --
+!import-table-item --UselessItem --A long hank of red braided hair. --1 --
+!import-table-item --UselessItem --Three small wooden cubes with illegible etchings on all six sides. --1 --
+!import-table-item --UselessItem --A fragment of a plate armor. --1 --
+!import-table-item --UselessItem --A half used bottle of hot sauce. --1 --
+!import-table-item --UselessItem --A moldy shoe with several small holes in the sole. --1 --
+!import-table-item --UselessItem --A dusty spider web with fly caught it it. No spider. --1 --
+!import-table-item --UselessItem --A clay pot with a lid, inside is dried fruit with mold growing on it. --1 --
+!import-table-item --UselessItem --A crude ivory carving resembling a woman of uncertain race with very large breasts. --1 --
+!import-table-item --UselessItem --A bent metal spoon. --1 --
+!import-table-item --UselessItem --A piece of paper folded into the shape of a bird. --1 --
+!import-table-item --UselessItem --An unwrapped peppermint laying underneath a piece of furniture. It has a hair on it. --1 --
+!import-table-item --UselessItem --Several pieces of paper currency belong to a defunct nation, rendering them worthless. --1 --
+!import-table-item --UselessItem --A beautifully crafted silver pocket watch that works but the hands tick backwards. --1 --
+!import-table-item --UselessItem --An enchanted jar that holds a little gelatinous cube, which eats any material you drop into it. --1 --
+!import-table-item --UselessItem --A hyper realistic looking wax apple --1 --
+!import-table-item --UselessItem --A human tooth, carved in the shape of a heart kept in a little glass bottle --1 --
+!import-table-item --UselessItem --A bag of different colored rocks of various shapes and sizes --1 --
+!import-table-item --UselessItem --A tiny pebble that inexplicably weighs 20 pounds --1 --
+!import-table-item --UselessItem --A wooden hand with the ring finger missing --1 --
+!import-table-item --UselessItem --A stone that is deceptively soft and squishy. --1 --
+!import-table-item --UselessItem --A small flute that plays the same note no matter how you blow into it or what holes you cover --1 --
+!import-table-item --UselessItem --A golden egg that wobbles every once in awhile. --1 --
+!import-table-item --UselessItem --A set of dice, each made from a different precious gemstone --1 --
+!import-table-item --UselessItem --A pewter figurine of a pegasus with a switch underneath it. Flipping the switch causes the pegasus’ wings to flap in unison. --1 --
+!import-table-item --UselessItem --A jade figurine of a lion. --1 --
+!import-table-item --UselessItem --A series of small glass spheres connected by glass beams. Each one has a different miniature creature suspended in time. There’s a Beholder, a Red Dragon, a Chimera, an Aboleth, and a Minotaur. --1 --
+!import-table-item --UselessItem --A large button with a monarch butterfly on it. --1 --
+!import-table-item --UselessItem --A small vial of ogre urine. --1 --
+!import-table-item --UselessItem --A deck of playing cards in which each card has an arbitrarily large number of symbols on it as opposed to the typical 2-10 of each suit. It includes cards like the 28 of clubs, the 132 of spades, and the 69 of diamonds, which has the word “Nice” written in tiny letters at the bottom of the card. --1 --
+!import-table-item --UselessItem --A compass that always points to you --1 --
+!import-table-item --UselessItem --A series of 5 vials in a wooden box, each filled with a bright green liquid. 4 of them contain a sweet tasting liquid, and one of them contains a horrid and acrid liquid that deals 4d6 poison damage when consumed in any quantity. They can only be distinguished by taste. The box reads: “Game of Chance”. --1 --
+!import-table-item --UselessItem --A well made hourglass with no sand inside. --1 --
+!import-table-item --UselessItem --A large jar that contains a bubbling red liquid which produces no heat. When the jar is opened, the liquid disappears --1 --
+!import-table-item --UselessItem --A five leaf clover --1 --
+!import-table-item --UselessItem --A metal goblet that when filled too high, empties the contents of the goblet. --1 --
+!import-table-item --UselessItem --A tiny vial filled with a clear liquid. A label on the front reads: “Lobster Tears”. It tastes briny. --1 --
